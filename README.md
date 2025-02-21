@@ -3,4 +3,7 @@
 
 ## Basics
 
-[Variables & Assignment](basics/functions_1.py)
+[Variables & Assignment](basics/variables.py)
+[Data Types](basics/types.py)
+[Functions](basics/functions.py)
+
